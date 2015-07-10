@@ -5,6 +5,7 @@
 		"target": "ES5",
 		"module": "commonjs",
 		"sourceMap": true,
-		"removeComments": false
+		"removeComments": false,
+		"experimentalDecorators": true
 	}
 }
