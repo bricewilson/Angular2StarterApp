@@ -2,7 +2,7 @@
 A starter template for building Angular 2 apps with Typescript and Visual Studio Code.
 
 ### Getting Started
-I assume you already have [nodejs](https://nodejs.org/) and [Visual Studio Code](https://code.visualstudio.com) installed. You will need the latest version of [Typescript](http://www.typescriptlang.org) (1.5.0-beta), the [tsd](https://www.npmjs.com/package/tsd) NPM package for managing Typescript definitions and a simple web server. I like the very easy to use [http-server](https://www.npmjs.com/package/http-server), but feel free to use whatever you like. All three of these can be installed globally with the command below. If you are using Windows, make sure your system path includes the path the version 1.5 of TypeScript.
+I assume you already have [nodejs](https://nodejs.org/) and [Visual Studio Code](https://code.visualstudio.com) installed. You will need the latest version of [Typescript](http://www.typescriptlang.org) (1.5.3), the [tsd](https://www.npmjs.com/package/tsd) NPM package for managing Typescript definitions and a simple web server. I like the very easy to use [http-server](https://www.npmjs.com/package/http-server), but feel free to use whatever you like. All three of these can be installed globally with the command below. If you are using Windows, make sure your system path includes the path the version 1.5 of TypeScript.
 
 Here are the steps to get the app running:
 * Clone this repository
